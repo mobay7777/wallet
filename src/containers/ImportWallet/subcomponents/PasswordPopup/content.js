@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Import Wallet Page - Password Popup Content
+ * Wallet - Import Wallet Page - Password Popup Content
  *
  */
 // ===== IMPORTS =====

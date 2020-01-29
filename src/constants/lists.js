@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Lists
+ * Wallet - Lists
  *
  * This file stores all kinds of data list that'll be used in web app
  */

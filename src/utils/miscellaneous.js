@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Other Utilities
+ * Wallet - Other Utilities
  *
  */
 // ===== IMPORTS =====

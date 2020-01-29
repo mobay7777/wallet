@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Header Navigation Bar
+ * Wallet - Header Navigation Bar
  *
  * This component defines a header menu for web page,
  * with different kinds of options (public & private)

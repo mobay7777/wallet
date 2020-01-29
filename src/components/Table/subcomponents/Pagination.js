@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Common Table - Pagination Component
+ * Wallet - Common Table - Pagination Component
  *
  */
 // ===== IMPORTS =====

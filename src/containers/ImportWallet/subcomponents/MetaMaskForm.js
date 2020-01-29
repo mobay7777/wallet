@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Import Wallet Page - MetaMask Form
+ * Wallet - Import Wallet Page - MetaMask Form
  *
  */
 // ===== IMPORTS =====

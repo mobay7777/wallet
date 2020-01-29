@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Ellipsis Component - Middle Type
+ * Wallet - Ellipsis Component - Middle Type
  *
  */
 // ===== IMPORTS =====

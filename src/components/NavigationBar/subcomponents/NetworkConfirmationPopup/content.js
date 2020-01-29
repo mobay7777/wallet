@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Network Update Confirmation Popup - Content
+ * Wallet - Network Update Confirmation Popup - Content
  *
  */
 // ===== IMPORTS =====

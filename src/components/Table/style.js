@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Common Table - Style
+ * Wallet - Common Table - Style
  *
  */
 // ===== IMPORTS =====

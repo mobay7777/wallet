@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Root Reducer Configuration
+ * Wallet - Root Reducer Configuration
  *
  */
 // ===== IMPORTS ======

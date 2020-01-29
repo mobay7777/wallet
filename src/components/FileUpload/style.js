@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - File Upload Input - Style
+ * Wallet - File Upload Input - Style
  *
  */
 // ===== IMPORTS =====

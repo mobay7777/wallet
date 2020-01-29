@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - File Upload Input
+ * Wallet - File Upload Input
  *
  * This component allows user to choose or drag/drop a file to upload
  */

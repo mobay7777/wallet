@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - My Wallet Page - Success Popup Content
+ * Wallet - My Wallet Page - Success Popup Content
  *
  */
 // ===== IMPORTS =====

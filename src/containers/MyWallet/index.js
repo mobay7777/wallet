@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - My Wallet Page
+ * Wallet - My Wallet Page
  *
  * This component defines a wallet-provided home page, with all basic information &
  * options to send/receive tokens...
@@ -622,7 +622,7 @@ class MyWallet extends PureComponent {
 
 // ===== PROP TYPES =====
 MyWallet.propTypes = {
-  /** TomoChain coin data */
+  /** Rupaya coin data */
   coinData: PropTypes.object,
   /** React Intl's instance object */
   intl: PropTypes.object,

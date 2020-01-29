@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Common Popup
+ * Wallet - Common Popup
  *
  * This component defines a basic popup, with configuration options
  * to modify & extend into more specific popup types

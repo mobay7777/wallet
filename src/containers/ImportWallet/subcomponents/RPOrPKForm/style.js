@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Import Wallet Page - Recovery Phrase/Private Key Tab - Style
+ * Wallet - Import Wallet Page - Recovery Phrase/Private Key Tab - Style
  *
  */
 // ===== IMPORTS =====

@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Utility - Blockchain - Common Utilities
+ * Wallet - Utility - Blockchain - Common Utilities
  *
  */
 // ===== IMPORTS =====
@@ -306,7 +306,7 @@ const toBN = decimalAmount => web3Utils.toBN(decimalAmount);
  * weiToDecimals
  *
  * Convert a Wei-format number into a decimal number
- * @param {Number} amount An amount of TOMO in Wei format
+ * @param {Number} amount An amount of RUPX in Wei format
  */
 const weiToDecimals = amount => {
   return web3Utils.fromWei(amount);

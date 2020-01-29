@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Application Container - Style
+ * Wallet - Application Container - Style
  *
  */
 // ===== IMPORTS =====

@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - My Wallet Page - Data Tables
+ * Wallet - My Wallet Page - Data Tables
  *
  * This component consists of token & transaction data, including some action
  * to interact (view details, send/receive...)

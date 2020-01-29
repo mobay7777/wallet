@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - My Wallet Page - Reducer
+ * Wallet - My Wallet Page - Reducer
  *
  */
 // ===== IMPORTS =====
@@ -96,7 +96,7 @@ export default (state = initialState, action) => {
         .setIn(['coinData', 'data'], action.data)
         .update('tokenOptions', tokens =>
           tokens.map(tok => {
-            if (tok[PORTFOLIO_COLUMNS.TOKEN_NAME] === 'TOMO') {
+            if (tok[PORTFOLIO_COLUMNS.TOKEN_NAME] === 'RUPX') {
               return {
                 ...tok,
                 [PORTFOLIO_COLUMNS.PRICE]: _get(
@@ -129,7 +129,7 @@ export default (state = initialState, action) => {
               ),
               [PORTFOLIO_COLUMNS.TYPE]: _get(token, 'type', 'TRC20'),
               [PORTFOLIO_COLUMNS.TRANSACTION_FEE]: 0.03,
-              [PORTFOLIO_COLUMNS.PUBLISHER]: 'TomoChain',
+              [PORTFOLIO_COLUMNS.PUBLISHER]: 'Rupaya',
             };
           }),
         ),

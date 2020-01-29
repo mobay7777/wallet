@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Loading Screen - Style
+ * Wallet - Loading Screen - Style
  *
  */
 // ===== IMPORTS =====

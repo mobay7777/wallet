@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Header Navigation Bar - Style
+ * Wallet - Header Navigation Bar - Style
  *
  */
 // ===== IMPORTS =====

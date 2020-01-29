@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Import Wallet Page - Keystore Form
+ * Wallet - Import Wallet Page - Keystore Form
  *
  * This component define a file upload form for user to upload their keystore file
  */

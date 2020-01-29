@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Welcome Page - Quick Access Form (for Electron app only)
+ * Wallet - Welcome Page - Quick Access Form (for Electron app only)
  *
  */
 // ===== IMPORTS =====

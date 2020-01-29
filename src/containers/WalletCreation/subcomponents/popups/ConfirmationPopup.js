@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Wallet Creation Page - Confirmation Popup
+ * Wallet - Wallet Creation Page - Confirmation Popup
  *
  * This popup requires users to ensure that they've noted the recovery phrase
  * in somewhere safe & offline, in order to proceed.

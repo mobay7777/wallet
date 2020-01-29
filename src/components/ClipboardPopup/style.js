@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Clipboard Popup - Style
+ * Wallet - Clipboard Popup - Style
  *
  */
 // ===== IMPORT =====

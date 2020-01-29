@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Image Component
+ * Wallet - Image Component
  *
  */
 // ===== IMPORTS =====

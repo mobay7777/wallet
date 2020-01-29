@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Custom React Intl Provider - Utilities
+ * Wallet - Custom React Intl Provider - Utilities
  *
  */
 // ===== IMPORTS =====

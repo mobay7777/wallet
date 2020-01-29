@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Wallet Creation Page - Success Notification
+ * Wallet - Wallet Creation Page - Success Notification
  *
  * This component simply tell users that they've created their wallet successfully
  * and are about to redirect to homepage.

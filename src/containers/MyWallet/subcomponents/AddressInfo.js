@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - My Wallet Page - Address Information
+ * Wallet - My Wallet Page - Address Information
  *
  * This component shows basic information of current account address,
  * including options to send/receive tokens.

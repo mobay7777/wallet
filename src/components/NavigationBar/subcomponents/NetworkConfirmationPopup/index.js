@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Network Update Confirmation Popup
+ * Wallet - Network Update Confirmation Popup
  *
  * This popup askes for confirmation from user in order to change current RPC server
  * and clear login data

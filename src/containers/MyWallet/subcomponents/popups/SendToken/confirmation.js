@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - My Wallet Page - Send Token Popup - Confirmation Form
+ * Wallet - My Wallet Page - Send Token Popup - Confirmation Form
  *
  */
 // ===== IMPORTS =====
@@ -33,7 +33,7 @@ class ConfirmationContent extends PureComponent {
       _get(formValues, [SEND_TOKEN_FIELDS.TRANSACTION_FEE, 'type']) ===
         ENUM.TOKEN_TYPE.CURRENCY
     ) {
-      return 'TOMO';
+      return 'RUPX';
     }
     return _get(formValues, [
       SEND_TOKEN_FIELDS.TOKEN,

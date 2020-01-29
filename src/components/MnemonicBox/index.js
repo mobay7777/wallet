@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Recovery Phrase Box
+ * Wallet - Recovery Phrase Box
  *
  * This component distribute a list of mnemonic words into a container box
  */

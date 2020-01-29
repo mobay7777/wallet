@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - My Wallet Page - Actions
+ * Wallet - My Wallet Page - Actions
  *
  */
 // ===== IMPORTS =====

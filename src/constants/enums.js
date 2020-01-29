@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Enums
+ * Wallet - Enums
  *
  * This file stores all kinds of enum data that'll be used in web app
  */

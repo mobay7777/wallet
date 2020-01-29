@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Table Configuration - Portfolio Table
+ * Wallet - Table Configuration - Portfolio Table
  *
  */
 // ===== IMPORTS =====

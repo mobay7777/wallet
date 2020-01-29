@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Loadable Containers
+ * Wallet - Loadable Containers
  *
  * This file contains a set of containers which is configured with loadable-components,
  * in order to splitting chunk files in production.

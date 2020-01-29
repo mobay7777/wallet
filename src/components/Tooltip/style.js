@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Tooltip Component - Style
+ * Wallet - Tooltip Component - Style
  */
 // ===== IMPORTS =====
 // Modules

@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Wallet Creation Page - Selectors
+ * Wallet - Wallet Creation Page - Selectors
  *
  */
 // ===== IMPORTS =====

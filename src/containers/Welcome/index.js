@@ -1,8 +1,8 @@
 /**
  *
- * TomoWallet - Welcome Page
+ * Wallet - Welcome Page
  *
- * This is the default page when user visits TomoWallet Web.
+ * This is the default page when user visits Wallet Web.
  * It provides 2 options to access to wallet: "Create New Wallet" & "Import Wallet".
  */
 // ===== IMPORTS =====

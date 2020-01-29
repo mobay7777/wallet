@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Wallet Creation Page - Mnemonic Verification
+ * Wallet - Wallet Creation Page - Mnemonic Verification
  *
  * This component defines a form with shuffled words to verify
  * whether user has remembered/noted down the recovery phrase

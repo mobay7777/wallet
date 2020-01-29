@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Recovery Phrase Box Style
+ * Wallet - Recovery Phrase Box Style
  *
  */
 // ===== IMPORTS =====

@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Welcome Page - Fresh Login Form
+ * Wallet - Welcome Page - Fresh Login Form
  *
  */
 // ===== IMPORTS =====

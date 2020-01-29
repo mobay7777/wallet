@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Common Messages
+ * Wallet - Common Messages
  *
  * This file defines all common React Intl message objects
  * that'll be used in many places in the web app
@@ -87,11 +87,11 @@ export default defineMessages({
   },
   COMMON_LIST_NETWORK_TOMOCHAIN_TESTNET: {
     id: `${listPrefix}.network.tomochain.testnet`,
-    defaultMessage: 'TomoChain TestNet',
+    defaultMessage: 'Rupaya TestNet',
   },
   COMMON_LIST_NETWORK_TOMOCHAIN_MAINNET: {
     id: `${listPrefix}.network.tomochain.mainnet`,
-    defaultMessage: 'TomoChain MainNet',
+    defaultMessage: 'Rupaya MainNet',
   },
   // Component - Header Navigation Bar
   HEADER_NAVBAR_LOGO_ALT: {
@@ -159,7 +159,7 @@ export default defineMessages({
   // Component - Page Footer
   FOOTER_VERSION_TEXT: {
     id: `${footerPrefix}.versiontext`,
-    defaultMessage: 'TomoWallet 2019 - v1.0',
+    defaultMessage: 'Wallet 2019 - v1.0',
   },
   FOOTER_OPTION_HELP: {
     id: `${footerPrefix}.option.help`,
@@ -186,12 +186,12 @@ export default defineMessages({
   // Welcome Page
   WELCOME_TITLE: {
     id: `${welcomePagePrefix}.title`,
-    defaultMessage: 'Welcome to TomoWallet',
+    defaultMessage: 'Welcome to Wallet',
   },
   WELCOME_DESCRIPTION: {
     id: `${welcomePagePrefix}.description`,
     defaultMessage:
-      'TomoWallet (our friends call us TMW) is a free, client-side interface helping you interact with TomoChain. Our easy-to-use, open-source platform allows you to generate wallets, interact with smart contracts, and so much more.',
+      'Wallet (our friends call us TMW) is a free, client-side interface helping you interact with Rupaya. Our easy-to-use, open-source platform allows you to generate wallets, interact with smart contracts, and so much more.',
   },
   WELCOME_BUTTON_CREATE_NEW_WALLET: {
     id: `${welcomePagePrefix}.button.createnewwallet`,
@@ -207,7 +207,7 @@ export default defineMessages({
   },
   WELCOME_IMAGE_ALT: {
     id: `${welcomePagePrefix}.image.alt`,
-    defaultMessage: 'Welcome to TomoWallet',
+    defaultMessage: 'Welcome to Wallet',
   },
   WELCOME_FORM_PASSWORD_TITLE: {
     id: `${welcomePagePrefix}.form.password.title`,
@@ -258,11 +258,11 @@ export default defineMessages({
   WELCOME_NOTIFICATION_MOBILE_BROWSER_NOT_SUPPORTED: {
     id: `${welcomePagePrefix}.notification.mobile.browser.not.supported`,
     defaultMessage:
-      'Sorry! We don’t support TomoWallet web version on mobile browsers. Please download app version to access TomoWallet.',
+      'Sorry! We don’t support Wallet web version on mobile browsers. Please download app version to access Wallet.',
   },
   WELCOME_NOTIFICATION_MOBILE_DOWNLOAD_PART_1: {
     id: `${welcomePagePrefix}.notification.mobile.download.part1`,
-    defaultMessage: 'Download TomoWallet app',
+    defaultMessage: 'Download Wallet app',
   },
   WELCOME_NOTIFICATION_MOBILE_DOWNLOAD_PART_2: {
     id: `${welcomePagePrefix}.notification.mobile.download.part2`,
@@ -492,7 +492,7 @@ export default defineMessages({
   IMPORT_WALLET_TAB_LEDGER_INPUT_DESCRIPTION: {
     id: `${importWalletPagePrefix}.tab.ledger.input.description`,
     defaultMessage:
-      'To unlock the wallet, try paths {path1} or {path2} with Ethereum App, or try path {path3} with TomoChain App (on Ledger)',
+      'To unlock the wallet, try paths {path1} or {path2} with Ethereum App, or try path {path3} with Rupaya App (on Ledger)',
   },
   IMPORT_WALLET_TAB_METAMASK_IMAGE_ALT: {
     id: `${importWalletPagePrefix}.tab.metamask.image.alt`,
@@ -599,7 +599,7 @@ export default defineMessages({
   // My Wallet Page
   MY_WALLET_TITLE: {
     id: `${myWalletPagePrefix}.title`,
-    defaultMessage: 'My TomoWallet',
+    defaultMessage: 'My Wallet',
   },
   MY_WALLET_SECTION_ADDRESS_TITLE: {
     id: `${myWalletPagePrefix}.section.address.title`,
@@ -659,7 +659,7 @@ export default defineMessages({
   },
   MY_WALLET_TABLE_PORTFOLIO_CELL_TOKEN_NAME_PUBLISHER: {
     id: `${myWalletPagePrefix}.table.portfolio.cell.tokenname.publisher`,
-    defaultMessage: 'TomoChain',
+    defaultMessage: 'Rupaya',
   },
   MY_WALLET_TABLE_PORTFOLIO_CELL_ACTION_VIEW_ON_TOMOSCAN: {
     id: `${myWalletPagePrefix}.table.portfolio.cell.action.viewontomoscan`,
@@ -791,7 +791,7 @@ export default defineMessages({
   },
   MY_WALLET_POPUP_RECEIVE_TOKEN_CONTENT_MESSAGE: {
     id: `${myWalletPagePrefix}.popup.receivetoken.content.message`,
-    defaultMessage: 'Your address supports transferring to TOMO and its token',
+    defaultMessage: 'Your address supports transferring to RUPX and its token',
   },
   MY_WALLET_POPUP_RECEIVE_TOKEN_TITLE_DEPOSIT: {
     id: `${myWalletPagePrefix}.popup.receivetoken.title.deposit`,
@@ -803,7 +803,7 @@ export default defineMessages({
   },
   MY_WALLET_POPUP_RECEIVE_TOKEN_INPUT_AMOUNT_PLACEHOLDER: {
     id: `${myWalletPagePrefix}.popup.receivetoken.input.amount.placeholder`,
-    defaultMessage: 'Enter an amount of TOMO...',
+    defaultMessage: 'Enter an amount of RUPX...',
   },
   MY_WALLET_POPUP_RECEIVE_TOKEN_ERROR_AMOUNT_REQUIRED: {
     id: `${myWalletPagePrefix}.popup.receivetoken.error.amount.required`,

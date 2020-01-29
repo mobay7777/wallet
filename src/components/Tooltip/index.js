@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Tooltip Component
+ * Wallet - Tooltip Component
  *
  * This component defines a custom component for tooltip
  */

@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Show Wallet Popup - Style
+ * Wallet - Show Wallet Popup - Style
  *
  */
 // ===== IMPORTS =====

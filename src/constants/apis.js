@@ -1,13 +1,13 @@
 /**
  *
- * TomoWallet - Constants - APIs
+ * Wallet - Constants - APIs
  *
  */
 // Base URLs
-const WALLET_TESTNET = 'https://apiwallet.testnet.tomochain.com';
-const SCAN_TESTNET = 'https://scan.testnet.tomochain.com';
-const WALLET_MAINNET = 'https://wallet.tomochain.com';
-const SCAN_MAINNET = 'https://scan.tomochain.com';
+const WALLET_TESTNET = 'https://apiwallet.testnet.rupaya.io';
+const SCAN_TESTNET = 'https://scan.testnet.rupaya.io';
+const WALLET_MAINNET = 'https://wallet.rupaya.io';
+const SCAN_MAINNET = 'https://scan.rupaya.io';
 
 export default {
   TOMOCHAIN_TESTNET: {

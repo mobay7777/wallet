@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - React Intl Customized Provider
+ * Wallet - React Intl Customized Provider
  *
  * This provider defines React Intl injection method with an additional function to change the locale
  */

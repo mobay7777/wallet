@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - My Wallet Page - Portfolio Table - Token Cell
+ * Wallet - My Wallet Page - Portfolio Table - Token Cell
  *
  */
 // ===== IMPORTS =====

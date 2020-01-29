@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - My Wallet Page - Exchange Information Style
+ * Wallet - My Wallet Page - Exchange Information Style
  *
  */
 // ===== IMPORTS =====

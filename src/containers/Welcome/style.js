@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Welcome Page - Style
+ * Wallet - Welcome Page - Style
  *
  */
 

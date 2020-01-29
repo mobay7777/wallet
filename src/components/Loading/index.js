@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Loading Component
+ * Wallet - Loading Component
  *
  * This component defines a loading cover screen whenever a Web3 action is triggered.
  */

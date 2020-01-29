@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Create Wallet Page - Password Popup
+ * Wallet - Create Wallet Page - Password Popup
  *
  * This component defines a password form in order to encrypt user's keystore file.
  */

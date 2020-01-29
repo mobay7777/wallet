@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Welcome Page - Selectors
+ * Wallet - Welcome Page - Selectors
  *
  */
 // ===== IMPORTS =====

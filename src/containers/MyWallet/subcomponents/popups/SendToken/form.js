@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - My Wallet Page - Send Token Popup - Form
+ * Wallet - My Wallet Page - Send Token Popup - Form
  *
  */
 // ===== IMPORTS =====
@@ -253,7 +253,7 @@ class FormContent extends PureComponent {
             formValues,
             [SEND_TOKEN_FIELDS.TOKEN, PORTFOLIO_COLUMNS.TRANSACTION_FEE],
             0,
-          )} TOMO`}
+          )} RUPX`}
         </Label> */}
       </Form>
     );

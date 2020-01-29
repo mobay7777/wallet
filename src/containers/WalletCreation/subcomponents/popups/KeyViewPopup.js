@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Wallet Creation Page - Private Key View Popup
+ * Wallet - Wallet Creation Page - Private Key View Popup
  *
  * This popup shows a private key string generated from mnemonic,
  * including a QR Code for convenient access

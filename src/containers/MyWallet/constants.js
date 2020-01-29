@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - My Wallet Page - Constants
+ * Wallet - My Wallet Page - Constants
  *
  */
 // Actions

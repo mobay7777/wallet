@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Global Constants
+ * Wallet - Global Constants
  *
  */
 // Actions

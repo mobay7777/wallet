@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Import Wallet Page - Password Popup
+ * Wallet - Import Wallet Page - Password Popup
  *
  * This component shows a form of password for user to encrypt their keystore
  */

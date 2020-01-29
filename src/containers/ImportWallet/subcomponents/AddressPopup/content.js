@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Import Wallet Page - Ledger Address Popup - Content
+ * Wallet - Import Wallet Page - Ledger Address Popup - Content
  *
  */
 // ===== IMPORTS =====
@@ -39,7 +39,7 @@ class AddressContent extends PureComponent {
             <Col xs={4} className='text-right'>
               {`${wallet.balance.toLocaleString(undefined, {
                 minimumFractionDigits: 3,
-              })} TOMO`}
+              })} RUPX`}
             </Col>
           </Row>
         ))}

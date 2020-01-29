@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Global Selectors
+ * Wallet - Global Selectors
  *
  */
 // ===== IMPORTS =====

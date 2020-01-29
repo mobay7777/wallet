@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Utility - Blockchain - Wallet Utilities
+ * Wallet - Utility - Blockchain - Wallet Utilities
  *
  */
 // ===== IMPORTS =====

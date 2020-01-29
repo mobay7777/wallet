@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Wallet Creation Page - Recovery Phrase Generation
+ * Wallet - Wallet Creation Page - Recovery Phrase Generation
  *
  * This component shows user a randomly generated mnemonic phrase, waiting to be noted down offline
  */

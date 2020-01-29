@@ -1,9 +1,9 @@
 // Modules
 /**
  *
- * TomoWallet - Screen Footer
+ * Wallet - Screen Footer
  *
- * This component defines TomoWallet website footer.
+ * This component defines Wallet website footer.
  * All supported & social network share links are here.
  */
 // ===== IMPORTS =====
@@ -54,19 +54,19 @@ class Footer extends PureComponent {
     ];
     this.WEBSITE_SUPPORTED_LINKS = [
       {
-        url: 'https://docs.tomochain.com/products/tomowallet/features/',
+        url: 'https://docs.rupaya.io/products/tomowallet/features/',
         content: formatMessage(MSG.FOOTER_OPTION_HELP),
       },
       {
-        url: 'https://docs.tomochain.com/products/tomowallet/terms/',
+        url: 'https://docs.rupaya.io/products/tomowallet/terms/',
         content: formatMessage(MSG.FOOTER_OPTION_TERMS_PRIVACY),
       },
       {
-        url: 'https://tomochain.com',
+        url: 'https://rupaya.io',
         content: formatMessage(MSG.HEADER_NAVBAR_OPTION_ABOUT),
       },
       {
-        url: 'https://docs.tomochain.com/general/faq/#tomowallet',
+        url: 'https://docs.rupaya.io/general/faq/#tomowallet',
         content: formatMessage(MSG.HEADER_NAVBAR_OPTION_FAQS),
       },
     ];

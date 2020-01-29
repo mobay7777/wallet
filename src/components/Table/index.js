@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Common Table Component
+ * Wallet - Common Table Component
  *
  * This component defines a common table component for all pages,
  * based on React Table module.

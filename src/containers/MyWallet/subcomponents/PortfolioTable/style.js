@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - My Wallet Page - Portfolio Table - Styles
+ * Wallet - My Wallet Page - Portfolio Table - Styles
  *
  */
 // ===== IMPORTS =====

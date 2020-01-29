@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Root Component
+ * Wallet - Root Component
  *
  * This component is where we provide our web app as DOM elements into "root" section in index.html.
  * We also setups Redux store & pre-initiation configurations here

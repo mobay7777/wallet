@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Application Container
+ * Wallet - Application Container
  *
  * This component contains all possible pages of this website,
  * with supported router methods to navigate between pages & handle log-in cases

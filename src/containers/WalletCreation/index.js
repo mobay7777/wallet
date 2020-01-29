@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Wallet Creation Page
+ * Wallet - Wallet Creation Page
  *
  * This component defines a wizard form for users to create their new wallet,
  * using a randomly generated mnemonic phrase

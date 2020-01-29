@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Common Popup - Style
+ * Wallet - Common Popup - Style
  *
  */
 // ===== IMPORTS =====

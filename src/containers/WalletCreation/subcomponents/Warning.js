@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Wallet Creation Page - Warning Component
+ * Wallet - Wallet Creation Page - Warning Component
  *
  * This component shows first warning about the upcoming generated recovery phrase,
  * which user has to store somewhere outside of the computer for security purpose.

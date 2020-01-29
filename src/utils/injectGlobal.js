@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Loading State Injection
+ * Wallet - Loading State Injection
  *
  */
 // ===== IMPORTS =====

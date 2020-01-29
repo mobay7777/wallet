@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Clipboard Popup
+ * Wallet - Clipboard Popup
  *
  * This component notices the user that some text content has been copied to clipboard
  */

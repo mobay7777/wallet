@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Global Reducer
+ * Wallet - Global Reducer
  *
  */
 // ===== IMPORTS =====

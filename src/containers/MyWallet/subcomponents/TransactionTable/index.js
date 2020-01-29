@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - My Wallet Page - Transaction Table
+ * Wallet - My Wallet Page - Transaction Table
  *
  */
 // ===== IMPORTS =====

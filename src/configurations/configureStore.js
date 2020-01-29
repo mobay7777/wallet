@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Redux store configuration
+ * Wallet - Redux store configuration
  *
  */
 // ===== IMPORTS ====

@@ -1,6 +1,6 @@
 /**
  *
- * TomoWallet - Import Wallet Page - Ledger Address Popup
+ * Wallet - Import Wallet Page - Ledger Address Popup
  *
  */
 // ===== IMPORTS =====
