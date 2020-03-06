@@ -55,7 +55,7 @@ import {
   selectNetworkData,
   selectNetworkConfirmationPopup,
 } from '../../containers/Global/selectors';
-import logo_tomochain from '../../assets/images/logo-tomochain.png';
+import logo_tomochain from '../../assets/images/logo-rupaya.png';
 import { removeRPFile } from '../../utils/electron';
 
 // ===== MAIN COMPONENT =====

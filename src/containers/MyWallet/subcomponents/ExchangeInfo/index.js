@@ -86,7 +86,7 @@ class ExchangeInfo extends PureComponent {
             <div className='exchange-info__data'>
               <span className='exchange-info__data-title'>
                 <a
-                  href='https://coinmarketcap.com/currencies/tomochain/?utm_medium=widget&amp;utm_campaign=cmcwidget&amp;utm_source=localhost&amp;utm_content=tomochain'
+                  href='https://coinmarketcap.com/currencies/rupaya/?utm_medium=widget&amp;utm_campaign=cmcwidget&amp;utm_source=localhost&amp;utm_content=tomochain'
                   rel='noopener noreferrer'
                   target='_blank'
                 >
@@ -108,7 +108,7 @@ class ExchangeInfo extends PureComponent {
               </span>
             </div>
             <div className='exchange-info__icon'>
-              <Image src='https://s2.coinmarketcap.com/static/img/coins/64x64/2570.png' />
+              <Image src='https://s2.coinmarketcap.com/static/img/coins/64x64/1877.png' />
             </div>
           </div>
           <div className='exchange-info__charts'>

@@ -31,7 +31,7 @@ import portfolioConfig from './configuration';
 import { PORTFOLIO_COLUMNS } from '../../constants';
 import { selectWallet } from '../../../Global/selectors';
 import { LIST, ENUM } from '../../../../constants';
-import tomoIcon from '../../../../assets/images/logo-tomo.png';
+import tomoIcon from '../../../../assets/images/logo-rupx.png';
 // ===================
 
 // ===== MAIN COMPONENT =====

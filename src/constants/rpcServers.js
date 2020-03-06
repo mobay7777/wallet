@@ -1,9 +1,9 @@
 export default {
   TOMOCHAIN_MAINNET: {
     type: 'http',
-    host: 'https://rpc.rupaya.io',
-    networkId: 88,
-    hdPath: "m/44'/889'/0'/0/",
+    host: 'https://socket.rupaya.io',
+    networkId: 77,
+    hdPath: "m/44'/77'/0'/0/",
   },
   TOMOCHAIN_TESTNET: {
     type: 'http',

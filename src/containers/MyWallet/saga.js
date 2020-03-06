@@ -100,7 +100,7 @@ export function* loadCoin() {
   try {
     const response = yield call(
       request,
-      "https://widgets.coinmarketcap.com/v2/ticker/2570/?ref=widget&convert=USD"
+      "https://widgets.coinmarketcap.com/v2/ticker/1877/?ref=widget&convert=USD"
     );
     if (response.data) {
       yield put(loadCoinDataSuccess(response.data));

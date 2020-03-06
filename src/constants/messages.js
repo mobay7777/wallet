@@ -96,7 +96,7 @@ export default defineMessages({
   // Component - Header Navigation Bar
   HEADER_NAVBAR_LOGO_ALT: {
     id: `${navbarPrefix}.logo.alt`,
-    defaultMessage: 'TOMOCHAIN LOGO',
+    defaultMessage: 'RUPAYA LOGO',
   },
   HEADER_NAVBAR_OPTION_ABOUT: {
     id: `${navbarPrefix}.option.about`,

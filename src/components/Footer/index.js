@@ -29,36 +29,36 @@ class Footer extends PureComponent {
     this.SOCIAL_NETWORKS = [
       {
         className: 'font-icon-facebook',
-        url: 'https://www.facebook.com/tomochainofficial',
+        url: 'https://www.facebook.com/rupayacoin',
       },
       {
         className: 'font-icon-twitter',
-        url: 'https://twitter.com/TomoChainANN',
+        url: 'https://twitter.com/rupayacoin',
       },
       {
         className: 'font-icon-telegram',
-        url: 'https://t.me/tomochain',
+        url: 'https://t.me/rupayaofficial',
       },
       {
         className: 'font-icon-github',
-        url: 'https://github.com/tomochain/',
+        url: 'https://github.com/rupayaproject/',
       },
       {
         className: 'font-icon-linkedin',
-        url: 'https://www.linkedin.com/company/tomochain',
+        url: 'https://www.linkedin.com/company/rupaya',
       },
       {
         className: 'font-icon-reddit',
-        url: 'https://www.reddit.com/r/Tomochain/',
+        url: 'https://www.reddit.com/r/rupayacoin/',
       },
     ];
     this.WEBSITE_SUPPORTED_LINKS = [
       {
-        url: 'https://docs.rupaya.io/products/tomowallet/features/',
+        url: 'https://docs.rupaya.io/products/rupayawallet/features/',
         content: formatMessage(MSG.FOOTER_OPTION_HELP),
       },
       {
-        url: 'https://docs.rupaya.io/products/tomowallet/terms/',
+        url: 'https://docs.rupaya.io/products/rupayawallet/terms/',
         content: formatMessage(MSG.FOOTER_OPTION_TERMS_PRIVACY),
       },
       {
@@ -66,7 +66,7 @@ class Footer extends PureComponent {
         content: formatMessage(MSG.HEADER_NAVBAR_OPTION_ABOUT),
       },
       {
-        url: 'https://docs.rupaya.io/general/faq/#tomowallet',
+        url: 'https://docs.rupaya.io/general/faq/#rupayawallet',
         content: formatMessage(MSG.HEADER_NAVBAR_OPTION_FAQS),
       },
     ];
