@@ -53,7 +53,7 @@
   "tomowallet.container.welcome.form.password.error.retrieve.wallet.failed": "Cannot retrieve wallet information due to corrupted Web3 provider.",
   "tomowallet.container.welcome.notification.mobile.browser.not.supported": "Sorry! We don’t support Wallet web version on mobile browsers. Please download app version to access Wallet.",
   "tomowallet.container.welcome.notification.mobile.download.part1": "Download Wallet app",
-  "tomowallet.container.welcome.notification.mobile.download.part2": "Link: http://l.ead.me/bb0oA6",
+  "tomowallet.container.welcome.notification.mobile.download.part2": "Link: http://rupx.io",
   "tomowallet.container.createwallet.title": "Create New Wallet",
   "tomowallet.container.createwallet.popup.password.title": "Password",
   "tomowallet.container.createwallet.popup.password.input.label": "Your Password",

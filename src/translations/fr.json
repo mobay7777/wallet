@@ -53,7 +53,7 @@
   "tomowallet.container.welcome.form.password.error.retrieve.wallet.failed": "Impossible de récupérer les informations du portefeuille en raison d'un fournisseur Web3 corrompu.",
   "tomowallet.container.welcome.notification.mobile.browser.not.supported": "Pardon! Nous ne prenons pas en charge la version Web de Wallet sur les navigateurs mobiles. Veuillez télécharger la version de l'application pour accéder à Wallet.",
   "tomowallet.container.welcome.notification.mobile.download.part1": "Téléchargez l'application Wallet",
-  "tomowallet.container.welcome.notification.mobile.download.part2": "Lien: http://l.ead.me/bb0oA6",
+  "tomowallet.container.welcome.notification.mobile.download.part2": "Lien: http://rupx.io",
   "tomowallet.container.createwallet.title": "Créer un nouveau portefeuille",
   "tomowallet.container.createwallet.popup.password.title": "Mot de passe",
   "tomowallet.container.createwallet.popup.password.input.label": "Votre mot de passe",
