@@ -191,7 +191,7 @@ export default defineMessages({
   WELCOME_DESCRIPTION: {
     id: `${welcomePagePrefix}.description`,
     defaultMessage:
-      'Wallet (our friends call us TMW) is a free, client-side interface helping you interact with Rupaya. Our easy-to-use, open-source platform allows you to generate wallets, interact with smart contracts, and so much more.',
+      'Wallet is a free, client-side interface helping you interact with Rupaya. Our easy-to-use, open-source platform allows you to generate wallets, interact with smart contracts, and so much more.',
   },
   WELCOME_BUTTON_CREATE_NEW_WALLET: {
     id: `${welcomePagePrefix}.button.createnewwallet`,

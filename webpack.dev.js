@@ -13,6 +13,8 @@ module.exports = common({
     historyApiFallback: true,
     contentBase: 'dist',
     https: false,
+    compress: true,
+    disableHostCheck: true
   },
   optimization: {
     moduleIds: 'hashed',
