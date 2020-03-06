@@ -86,7 +86,7 @@ class ExchangeInfo extends PureComponent {
             <div className='exchange-info__data'>
               <span className='exchange-info__data-title'>
                 <a
-                  href='https://coinmarketcap.com/currencies/rupaya/?utm_medium=widget&amp;utm_campaign=cmcwidget&amp;utm_source=localhost&amp;utm_content=tomochain'
+                  href='https://coinmarketcap.com/currencies/rupaya/?utm_medium=widget&amp;utm_campaign=cmcwidget&amp;utm_source=localhost&amp;utm_content=rupaya'
                   rel='noopener noreferrer'
                   target='_blank'
                 >
