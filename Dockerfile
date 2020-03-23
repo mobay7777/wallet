@@ -5,7 +5,7 @@ LABEL maintainer="aasim@rupx.io"
 
 ENV HOST 0.0.0.0
 
-WORKDIR /app
+WORKDIR /
 
 RUN apk --no-cache --virtual deps add \
       python \
@@ -24,11 +24,11 @@ RUN apk --no-cache --virtual deps add \
       node-gyp \
       pm2
 
-COPY client/package*json ./
+COPY package*json ./
 
 RUN npm install
 
-COPY client .
+COPY  .
 
 RUN npm run build \
     && apk del deps
