@@ -1,5 +1,5 @@
 # Wallet - Secure Wallet for Rupaya
-Wallet web version can send RUPX, TRC20, TRC21. It can help you manage your balance and transactions also.
+Wallet web version can send RUPX, RRC20, RRC21. It can help you manage your balance and transactions also.
 
 Support both **Rupaya Mainet** and and **Rupaya testnet**
 
